@@ -1,4 +1,4 @@
-# wallethub
+# Selenium using Chomedriver
 Test 1: Facebook Test.
 Answer/Solution: FbTest.java
 
